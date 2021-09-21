@@ -2,7 +2,6 @@
 bg_image = "/images/illegal-legal-1.jpg"
 category = "Legal"
 description = "Navigating Space Launch Guidelines 2019 and Export Control Law 2020"
-draft = true
 image = "/images/illlegal-chinese-station-2.jpeg"
 title = "Collaborating With China"
 [[information]]
