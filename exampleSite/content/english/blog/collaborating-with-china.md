@@ -4,7 +4,6 @@ bg_image = "/images/illegal-legal-2.jpg"
 categories = ["Policy Brief"]
 date = 2021-09-20T16:00:00Z
 description = "Navigating Space Launch Guidelines 2019 and Export Control Law 2020"
-draft = true
 image = "/images/illlegal-chinese-station-3.jpeg"
 tags = ["Space Law"]
 title = "Collaborating With China"
