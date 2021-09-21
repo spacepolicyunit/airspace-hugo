@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-description: Drop us a note if you'd like to reach out for any reason!
+description: Reach out to us!
 bg_image: images/feature-bg.jpg
 layout: contact
 
