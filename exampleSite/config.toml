@@ -4,19 +4,9 @@ disqusShortname = ""
 googleAnalytics = ""
 paginate = "4"
 summaryLength = "30"
-theme = "airspace-hugo"
+theme = "ananke"
 timeZone = "UTC"
 title = "Space Policy Unit | SEDS Singapore"
-[languages.de]
-contentDir = "content/german"
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Alle Rechte vorbehalten."
-languageCode = "de-DE"
-languageName = "Deutsch"
-weight = 3
-[[languages.de.menu.main]]
-hasChildren = true
-name = "Mehr"
-weight = 5
 [languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved."
@@ -26,26 +16,6 @@ weight = 1
 [[languages.en.menu.main]]
 hasChildren = true
 name = "More"
-weight = 5
-[languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tous droits réservés."
-languageCode = "fr-FR"
-languageName = "Français"
-weight = 2
-[[languages.fr.menu.main]]
-hasChildren = true
-name = "Plus"
-weight = 5
-[languages.it]
-contentDir = "content/italian"
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tutti i diritti riservati."
-languageCode = "it-IT"
-languageName = "Italiano"
-weight = 2
-[[languages.it.menu.main]]
-hasChildren = true
-name = "Più"
 weight = 5
 [markup.goldmark.renderer]
 unsafe = true
